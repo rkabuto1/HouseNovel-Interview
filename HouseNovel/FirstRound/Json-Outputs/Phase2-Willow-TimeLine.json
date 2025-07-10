@@ -1,0 +1,532 @@
+[
+    {
+        "year": 1902,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1903,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1904,
+        "full_name": "David F. Witter",
+        "spouse_name": null,
+        "occupation": "supt of agencies",
+        "employer": "N W Natl Life Ins Co",
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": null
+    },
+    {
+        "year": 1904,
+        "full_name": "Emmett E. Witter",
+        "spouse_name": null,
+        "occupation": "student",
+        "employer": "U of M",
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as boarding (b 1807 Dupont Ave S)"
+    },
+    {
+        "year": 1904,
+        "full_name": "Glen F. Witter",
+        "spouse_name": null,
+        "occupation": "student",
+        "employer": null,
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as boarding (b 1807 Dupont Ave S)"
+    },  
+    {
+        "year": 1905,
+        "full_name": "David F. Witter",
+        "spouse_name": null,
+        "occupation": "Manager, loan department, N W Natl Life Ins Co",
+        "employer": "N W Natl Life Ins Co",
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Directly listed as resident with clear occupation and employer"
+    },
+    {
+        "year": 1905,
+        "full_name": "Emmet E. Witter",
+        "spouse_name": null,
+        "occupation": "Real Estate",
+        "employer": null,
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as residing at 1807 Dupont; assumed son or relative of David F."
+    },
+    {
+        "year": 1905,
+        "full_name": "Georgetta Witter",
+        "spouse_name": null,
+        "occupation": "Teacher",
+        "employer": null,
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed with residence at 1807 Dupont; inferred role as family member"
+    },
+    {
+        "year": 1906,
+        "full_name": "Thomas A. Jamieson",
+        "spouse_name": null,
+        "occupation": "Real estate, rentals, loans, and fire insurance",
+        "employer": "T A Jamieson & Huss Co",
+        "business_address": "205 Andrus Bldg",
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as partner in T A Jamieson & Huss Co; full business and home address provided"
+    },
+    {
+        "year": 1907,
+        "full_name": "Thomas A. Jamieson",
+        "spouse_name": null,
+        "occupation": "Real estate, rentals, loans, and fire insurance",
+        "employer": "T A Jamieson & Huss Co",
+        "business_address": "205 Andrus Bldg",
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as partner in T A Jamieson & Huss Co"
+    },
+    {
+        "year": 1908,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1909,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1910,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1911,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1912,
+        "full_name": "Thomas A. Jamieson",
+        "spouse_name": null,
+        "occupation": "President and Secretary, Towle-Jamieson Investment Co",
+        "employer": "Jamieson & Huss",
+        "business_address": "205 Andrus Bldg",
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as real estate and insurance professional; address directly mentioned"
+    },
+    {
+        "year": 1913,
+        "full_name": "Thomas A. Jamieson",
+        "spouse_name": null,
+        "occupation": "President and Secretary, Towle-Jamieson Investment Co",
+        "employer": "Jamieson & Huss",
+        "business_address": "205 Andrus Bldg",
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Same as 1912 entry. Listing confirms same occupation and home address. No spouse listed."
+    },
+    {
+        "year": 1914,
+        "full_name": "Horace Lowry",
+        "spouse_name": null,
+        "occupation": "President and Treasurer, The Arcade Investment Co; Vice President, Twin City Rapid Transit Co",
+        "employer": "The Arcade Investment Co / Twin City Rapid Transit Co",
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "New resident this year. No spouse listed. Business addresses not listed in entry."
+    },
+    {
+        "year": 1915,
+        "full_name": "Thomas A. Jamieson",
+        "spouse_name": null,
+        "occupation": "President and Secretary, Towle-Jamieson Investment Co",
+        "employer": "Towle-Jamieson Investment Co",
+        "business_address": "205 Andrus Bldg",
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Same resident as previous years. No spouse listed. Employer and title consistent with past entries."
+    },
+    {
+        "year": 1916,
+        "full_name": "Thomas A. Jamieson",
+        "spouse_name": null,
+        "occupation": "President and Secretary, Towle-Jamieson Investment Co",
+        "employer": "Towle-Jamieson Investment Co",
+        "business_address": "205 Andrus Bldg",
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Same resident as previous years. No spouse listed. Still serving in the same leadership role at the same company."
+    },
+    {
+        "year": 1917,
+        "full_name": "Thomas A. Jamieson",
+        "spouse_name": null,
+        "occupation": "President and Secretary, Towle-Jamieson Investment Co",
+        "employer": "Towle-Jamieson Investment Co",
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Same individual as prior years. Listing confirms residence and business role, no spouse mentioned."
+    },
+    {
+        "year": 1918,
+        "full_name": "Thomas A. Jamieson",
+        "spouse_name": null,
+        "occupation": "President and Secretary, Towle-Jamieson Investment Co",
+        "employer": "Towle-Jamieson Investment Co",
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Consistent with previous years, Thomas A. Jamieson continues to reside at the address and hold the same professional title."
+    },
+    {
+        "year": 1919,
+        "full_name": "Thomas A. Jamieson",
+        "spouse_name": null,
+        "occupation": "President and Secretary, Towle-Jamieson Investment Co",
+        "employer": "Towle-Jamieson Investment Co",
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Continues to reside at 1807 Dupont Ave S; maintains executive position at Towle-Jamieson Investment Co."
+    },
+    {
+        "year": 1920,
+        "full_name": "Clara E. Fanning",
+        "spouse_name": null,
+        "occupation": "Assistant, Public Library",
+        "employer": "Public Library",
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "No Jamieson found at this address in 1920; the property is now associated with Clara E. Fanning."
+    },
+    {
+        "year": 1921,
+        "full_name": "Hannah E. Bowman",
+        "spouse_name": null,
+        "occupation": "Maid",
+        "employer": null,
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": null
+    },
+    {
+        "year": 1921,
+        "full_name": "Jennie M. Bowman",
+        "spouse_name": null,
+        "occupation": "Maid",
+        "employer": null,
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": null
+    },
+    {
+        "year": 1922,
+        "full_name": "Thomas A. Jamieson",
+        "spouse_name": null,
+        "occupation": "President",
+        "employer": "Towle-Jamieson Investment Co",
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": null
+    },
+    {
+        "year": 1923,
+        "full_name": "Thomas A. Jamieson",
+        "spouse_name": null,
+        "occupation": "President",
+        "employer": "Towle-Jamieson Investment Co",
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": null
+    },
+    {
+        "year": 1924,
+        "full_name": "Thomas A. Jamieson",
+        "spouse_name": null,
+        "occupation": "President",
+        "employer": "Towle-Jamieson Investment Co",
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": null
+    },
+    {
+        "year": 1925,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1926,
+        "full_name": "Jennie L. Jamieson",
+        "spouse_name": "Thomas A. Jamieson (deceased)",
+        "occupation": null,
+        "employer": null,
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as widow of Thomas A. Jamieson; he died May 1, 1926 at age 58"
+    },
+    {
+        "year": 1927,
+        "full_name": "Jennie L. Jamieson",
+        "spouse_name": "Thomas A. Jamieson (deceased)",
+        "occupation": null,
+        "employer": null,
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as widow of Thomas A. Jamieson; still residing at 1807 Dupont Ave S"
+    },
+    {
+        "year": 1928,
+        "full_name": "Jennie Jamieson",
+        "spouse_name": "Thomas A. Jamieson (deceased)",
+        "occupation": null,
+        "employer": null,
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as widow of Thomas A. Jamieson; same home address as previous years."
+    },
+    {
+        "year": 1929,
+        "full_name": "Jennie Jamieson",
+        "spouse_name": "Thomas A. Jamieson (deceased)",
+        "occupation": null,
+        "employer": null,
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as widow of Thomas A. Jamieson; no occupation or employer mentioned."
+    },
+    {
+        "year": 1930,
+        "full_name": "Eliz Schnur",
+        "spouse_name": null,
+        "occupation": "Cook",
+        "employer": null,
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as 'Eliz Schnur, cook, 1807 Dupont Ave S'; employer not mentioned."
+    },
+    {
+        "year": 1931,
+        "full_name": "Susie Deming",
+        "spouse_name": null,
+        "occupation": "Cook",
+        "employer": null,
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as 'Susie cook 1807 Dupont av S'; employer not mentioned."
+    },
+    {
+        "year": 1932,
+        "full_name": "Susie Wilson",
+        "spouse_name": null,
+        "occupation": "Cook",
+        "employer": null,
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as 'Susie cook 1807 Dupont av S'; employer not specified"
+    }, 
+    {
+        "year": 1933,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1934,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1935,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1936,
+        "full_name": "Mildred Wahl",
+        "spouse_name": null,
+        "occupation": "Maid",
+        "employer": null,
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as 'Mildred maid 1807 Dupont av S'; no employer specified"
+    },
+    {
+        "year": 1937,
+        "full_name": "Myrtle G Wilson",
+        "spouse_name": null,
+        "occupation": "Maid",
+        "employer": "Private household",
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as 'maid 1807 Dupont av S'"
+    },
+    {
+        "year": 1938,
+        "full_name": "Mildred Wahlin",
+        "spouse_name": null,
+        "occupation": "Maid",
+        "employer": "Private household",
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as 'maid 1807 Dupont av S'"
+    },
+    {
+        "year": 1938,
+        "full_name": "Vivian Wahlin",
+        "spouse_name": null,
+        "occupation": "Maid",
+        "employer": "Private household",
+        "business_address": null,
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as 'maid 1807 Dupont av S'"
+    },
+    {
+        "year": 1939,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1940,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1941,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1942,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1943,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1944,
+        "full_name": "Carson F Jamieson",
+        "spouse_name": "Margt B",
+        "occupation": "Partner, Jamieson & Co (stock brokers)",
+        "employer": "Jamieson & Co",
+        "business_address": "1225 First Natl-Soo Line Bldg, 105 S 5th St",
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as 'Carson F (Margt B Jamieson & Co) h 1807 Dupont av S'"
+    },
+    {
+        "year": 1945,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+         "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1946,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1947,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1948,
+        "full_name": "Carson F Jamieson",
+        "spouse_name": "Margt B",
+        "occupation": "Partner, Jamieson & Company (stock brokers)",
+        "employer": "Jamieson & Company",
+        "business_address": "1225 First National-Soo Line Bldg, 105 S 5th",
+        "home_address": "1807 Dupont Ave S",
+        "notes": "Listed as 'Carson F (Margt B Jamieson & Company) h1807 Dupont av S'"
+    },
+    {
+        "year": 1949,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    },
+    {
+        "year": 1950,
+        "resident_full_name": "N/A",
+        "spouse_name": "N/A",
+        "occupation": "N/A",
+        "employer": "N/A",
+        "business_address": "N/A",
+        "notes": "Directory not available or address not found in listings"
+    }
+]

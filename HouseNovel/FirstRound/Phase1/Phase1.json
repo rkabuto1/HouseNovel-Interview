@@ -1,0 +1,90 @@
+[
+  {
+    "first_name": "Erick",
+    "last_name": "Remmon",
+    "spouse_name": null,
+    "residence_indicator": "b",
+    "home_address": "1319 N 2d",
+    "occupation": "switchman",
+    "employer": null,
+    "business_address": null,
+    "year": 1912
+  },
+  {
+    "first_name": "Victor",
+    "last_name": "Remni",
+    "spouse_name": null,
+    "residence_indicator": "rms",
+    "home_address": "2503 17th av S",
+    "occupation": "modeler",
+    "employer": null,
+    "business_address": null,
+    "year": 1912
+  },
+  {
+    "first_name": "John",
+    "last_name": "Remus",
+    "spouse_name": null,
+    "residence_indicator": "rms",
+    "home_address": "24 S 6th",
+    "occupation": "candy mkr",
+    "employer": null,
+    "business_address": null,
+    "year": 1912
+  },
+  {
+    "first_name": "Harold",
+    "last_name": "Rendahl",
+    "spouse_name": null,
+    "residence_indicator": "rms",
+    "home_address": "317 Oak",
+    "occupation": "helper",
+    "employer": null,
+    "business_address": null,
+    "year": 1912
+  },
+  {
+    "first_name": "Harold",
+    "last_name": "Rendell",
+    "spouse_name": null,
+    "residence_indicator": "b",
+    "home_address": "2752 Bryant av S",
+    "occupation": "salsn N W Fuel Co",
+    "employer": null,
+    "business_address": null,
+    "year": 1912
+  },
+  {
+    "first_name": "Chas",
+    "last_name": "Renders",
+    "spouse_name": null,
+    "residence_indicator": "rms",
+    "home_address": "710 1st",
+    "occupation": "chiropodist",
+    "employer": null,
+    "business_address": null,
+    "year": 1912
+  },
+  {
+    "first_name": "Selma",
+    "last_name": "Renneke",
+    "spouse_name": null,
+    "residence_indicator": "b",
+    "home_address": "3045 Lincoln",
+    "occupation": "mach opr",
+    "employer": null,
+    "business_address": null,
+    "year": 1912
+  },
+  {
+    "first_name": "Edwin",
+    "last_name": "Renner",
+    "spouse_name": null,
+    "residence_indicator": "b",
+    "home_address": "823 28th",
+    "occupation": "well driller",
+    "employer": null,
+    "business_address": null,
+    "year": 1912
+  }
+]
