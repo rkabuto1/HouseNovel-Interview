@@ -18,14 +18,19 @@ I began by locating pages 104 through 108 of the 1900 Minneapolis city directory
 
 Next, I used ImageMagick’s magick CLI tool to convert each PDF page into a JPEG file. This resolution is ideal for text recognition. Each command took a PDF like Page104.pdf and generated a corresponding page_104_pg112.jpg image.
 
+---
+
 ### 3. Extracting Text via Tesseract OCR
 
 With the images ready, I ran Tesseract OCR on each JPEG file. This step transformed the scanned images into raw, searchable text files like page_104_pg112.txt. I ran five Tesseract commands, and all output files were successfully created and saved in the ocr/ folder. These text files are the input for the next phase: parsing the structured resident data into JSON.
 
+---
 
 ### 4. Reviewing the OCR Output
 
 After completing the Tesseract OCR conversion on the scanned pages of the 1900 Minneapolis city directory, I began by manually inspecting the resulting .txt files, starting with page_104_pg112.txt. I examined how the OCR output structured each resident’s entry and identified consistent patterns such as names appeared first, followed by occupations, addresses, and occasionally spouse names or company references.
+
+---
 
 ### 5. Parsing with `extract_residents.py`
 
